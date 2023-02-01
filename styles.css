@@ -170,3 +170,9 @@ hr {
 .footer ul {
     padding-inline-start: 0;
 }
+
+.blog{
+    padding: 1rem;
+    border-radius: 1rem 0rem;
+    margin-bottom: 1rem;
+}
