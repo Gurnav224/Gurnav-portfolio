@@ -40,7 +40,8 @@ hr {
 .link {
     text-decoration: none;
     box-sizing: border-box;
-    padding: 0.6rem 1rem;
+    padding: 0.6rem 0rem;
+    text-align: center;
 }
 
 .link-primary{
@@ -175,4 +176,10 @@ hr {
     padding: 1rem;
     border-radius: 1rem 0rem;
     margin-bottom: 1rem;
+}
+
+
+.social-icon {
+    font-size: 1.2rem;
+    color: var(--dark-gray);
 }
