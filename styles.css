@@ -72,6 +72,7 @@ hr {
 .list-item-inline{
     display: inline;
     padding: 0rem 0.5rem;
+
 }
 
 /* navigation  */
@@ -87,6 +88,7 @@ hr {
 
 .navigation .nav-pills{
     text-align: right;
+    font-size: 2rem;
 }
 
 .navigation .nav-inverted{
